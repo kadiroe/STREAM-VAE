@@ -4,8 +4,10 @@ STREAM-VAE: Dual-Path Routing for Slow and Fast Dynamics in Vehicle Telemetry An
 
 This is a clean, minimal repo you can run **immediately** to test the model. 
 
-**Authors:** Kadir-Kaan Özer, René Ebeling, Markus Enzweiler  
-**Paper:** https://arxiv.org/abs/2511.15339
+**Authors:** Kadir-Kaan Özer, René Ebeling, Markus Enzweiler 
+
+Paper: https://arxiv.org/abs/2511.15339
+HuggingFace: https://huggingface.co/papers/2511.15339
 
 ## Folder layout
 
