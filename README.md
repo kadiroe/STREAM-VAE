@@ -111,6 +111,20 @@ Higher is better for all metrics. We used TSB-AD-M Eval.
 | LOF | 0.14 | 0.60 | 0.10 | 0.53 | 0.15 | 0.57 | 0.32 | 0.14 | 0.76 |
 | AnomalyTransformer | 0.12 | 0.57 | 0.07 | 0.52 | 0.12 | 0.53 | 0.33 | 0.14 | — |
 
+## Citation
+If you find our work useful in your research, please consider citing:
+
+```bibtex
+@misc{özer2026streamvaedualpathroutingslow,
+      title={STREAM-VAE: Dual-Path Routing for Slow and Fast Dynamics in Vehicle Telemetry Anomaly Detection}, 
+      author={Kadir-Kaan Özer and René Ebeling and Markus Enzweiler},
+      year={2026},
+      eprint={2511.15339},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2511.15339}, 
+}
+```
 
 ## Acknowledgement
 We thank the authors of TSB-AD for releasing the multivariate time-series anomaly detection benchmark and evaluation framework, which we use for fair and reproducible comparison. Their repo can be found at https://github.com/TheDatumOrg/TSB-AD/tree/main/TSB_AD and their paper at https://proceedings.neurips.cc/paper_files/paper/2024/hash/c3f3c690b7a99fba16d0efd35cb83b2c-Abstract-Datasets_and_Benchmarks_Track.html
