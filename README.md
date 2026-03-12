@@ -1,13 +1,30 @@
-# STREAM-VAE
+<h1 align="center">
+  STREAM-VAE: Dual-Path Routing for Slow and Fast Dynamics in Vehicle Telemetry Anomaly Detection
+</h1>
 
-STREAM-VAE: Dual-Path Routing for Slow and Fast Dynamics in Vehicle Telemetry Anomaly Detection by Mercedes-Benz AG. Accepted to appear in the 2026 IEEE Intelligent Vehicles Symposium (IV 2026), Detroit, MI, USA, June 22-25, 2026.
+<div align="center">
+
+# Predictable Query Dynamics for Time-Series Anomaly Detection
+
+[![Status: Accepted](https://img.shields.io/badge/Status-Accepted-brightgreen.svg?style=for-the-badge)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+[**Kadir-Kaan Özer**](#)<sup>1,2</sup> · [**René Ebeling**](#)<sup>1</sup> · [**Markus Enzweiler**](#)<sup>2</sup>
+
+<sup>1</sup> **Mercedes-Benz AG, Germany** · <sup>2</sup> **Institute for Intelligent Systems, Esslingen University of Applied Sciences, Germany**
+
+---
+
+[![arXiv](https://img.shields.io/badge/arXiv-2412.02506-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2511.15339v2)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/papers/2511.15339)
+
+</div>
+
+<br>
+
+Accepted to appear in the 2026 IEEE Intelligent Vehicles Symposium (IV 2026), Detroit, MI, USA, June 22-25, 2026.
 
 This is a clean, minimal repo you can run **immediately** to test the model and reproduce numbers.
-
-**Authors:** Kadir-Kaan Özer, René Ebeling, Markus Enzweiler 
-
-Paper: https://arxiv.org/abs/2511.15339v2
-HuggingFace: https://huggingface.co/papers/2511.15339
 
 ## Folder layout
 
