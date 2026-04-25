@@ -13,7 +13,7 @@
 
 ---
 
-[![arXiv](https://img.shields.io/badge/arXiv-2412.02506-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2511.15339v2)
+[![arXiv](https://img.shields.io/badge/arXiv-2511.15339-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2511.15339v2)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/papers/2511.15339)
 
 </div>
