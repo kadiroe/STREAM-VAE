@@ -5,7 +5,7 @@
 <div align="center">
   
 [![Status: Accepted](https://img.shields.io/badge/Status-Accepted-brightgreen.svg?style=for-the-badge)](#)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge)](https://www.apache.org/licenses/LICENSE-2.0)
 
 [**Kadir-Kaan Özer**](#)<sup>1,2</sup> · [**René Ebeling**](#)<sup>1</sup> · [**Markus Enzweiler**](#)<sup>2</sup>
 
