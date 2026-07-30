@@ -36,11 +36,7 @@ datasets/
 ## Install
 
 ```bash
-python -m venv .venv
-source .venv/bin/activate
-pip install -U pip
-pip install -r requirements.txt
-pip install -e .
+uv sync
 ```
 
 ## Quick sanity run (included toy dataset)
