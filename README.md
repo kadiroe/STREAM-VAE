@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Status: Accepted](https://img.shields.io/badge/Status-Accepted-brightgreen.svg?style=for-the-badge)](#)
+[![IEEE Xplore](https://img.shields.io/badge/IEEE-Xplore-00629B.svg?style=for-the-badge)](https://ieeexplore.ieee.org/document/11623993)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge)](https://www.apache.org/licenses/LICENSE-2.0)
 
 [**Kadir-Kaan Özer**](#)<sup>1,2</sup> · [**René Ebeling**](#)<sup>1</sup> · [**Markus Enzweiler**](#)<sup>2</sup>
@@ -13,6 +13,7 @@
 
 ---
 
+[![IEEE](https://img.shields.io/badge/IEEE-Published-00629B.svg?style=plastic)](https://ieeexplore.ieee.org/document/11623993)
 [![arXiv](https://img.shields.io/badge/arXiv-2511.15339-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2511.15339v2)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/papers/2511.15339)
 
@@ -20,9 +21,9 @@
 
 <br>
 
-Accepted to appear in the 2026 IEEE Intelligent Vehicles Symposium (IV 2026), Detroit, MI, USA, June 22-25, 2026.
+Published in the **2026 IEEE Intelligent Vehicles Symposium (IV 2026)**, Detroit, MI, USA, June 22–25, 2026.
 
-This is a clean, minimal repo you can run **immediately** to test the model and reproduce numbers.
+This is a clean, minimal repository that can be run **immediately** to evaluate the model and reproduce the reported results.
 
 ## Folder layout
 
@@ -126,15 +127,16 @@ Higher is better for all metrics. We used TSB-AD-M Eval.
 If you find our work useful in your research, please consider citing:
 
 ```bibtex
-@misc{özer2026streamvaedualpathroutingslow,
-      title={STREAM-VAE: Dual-Path Routing for Slow and Fast Dynamics in Vehicle Telemetry Anomaly Detection}, 
-      author={Kadir-Kaan Özer and René Ebeling and Markus Enzweiler},
-      year={2026},
-      eprint={2511.15339},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2511.15339}, 
-}
+@INPROCEEDINGS{11623993,
+  author={Özer, Kadir-Kaan and Ebeling, René and Enzweiler, Markus},
+  booktitle={2026 IEEE Intelligent Vehicles Symposium (IV)}, 
+  title={STREAM-VAE: Dual-Path Routing for Slow and Fast Dynamics in Vehicle Telemetry Anomaly Detection}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={444-451},
+  keywords={Modeling;Timing;Streams;Automotive engineering;Printing;Conferences;Vehicles;Anomaly detection;Decoding;Labeling;automotive telemetry;anomaly detection;sensor data;generative models;variational autoencoder;intelligent vehicles},
+  doi={10.1109/IV66570.2026.11623993}}
 ```
 
 ## Acknowledgement
